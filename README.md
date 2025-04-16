@@ -2,3 +2,5 @@ Ready to use preset for modiffied theme "Oldcord" restoring old better version o
 
 Installation:
 Put the "src" folder and "Discord-UI-Revert.theme.css"
+
+Additionally you can install "amoled-cord.theme.css" for oled black theme.

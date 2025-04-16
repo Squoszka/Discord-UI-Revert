@@ -1,6 +1,6 @@
-Ready to use preset for modiffied theme "Oldcord" restoring old better version of discord ui.
+Ready to use preset for modiffied theme "[OldCord]([https://www.example.com](https://github.com/milbits/oldcord?tab=readme-ov-file#local-method))" restoring old better version of discord ui.
 
-Vencord Installation:
+# Vencord Installation
 
 Put the "src" folder and "Discord-UI-Revert.theme.css"
 

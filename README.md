@@ -16,3 +16,4 @@ Paste the following in Settings > Themes:
 # How to enable Dark OLED mode: ([amoled-cord](https://github.com/LuckFire/amoled-cord))
 1. Edit ```Discord-UI-Revert.theme.css``` file
 2. Remove ```*/``` before ```@import url("https://squoszka.github.io/Discord-UI-Revert/src/amoled-cord.theme.css");```
+3. Save file

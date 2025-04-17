@@ -1,4 +1,4 @@
-Works 16.04.2025.
+Works 17.04.2025.
 
 Ready to use preset for modiffied theme [OldCord](https://github.com/milbits/oldcord) restoring old better version of discord UI.
 

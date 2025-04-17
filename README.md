@@ -13,7 +13,7 @@ Ready to use preset for modiffied theme [OldCord](https://github.com/milbits/old
 ### Online Method:
 Paste the following in Settings > Themes:
 
-```https://github.com/Squoszka/Discord-UI-Revert/raw/refs/heads/main/Discord-UI-Revert.theme.css```
+```https://squoszka.github.io/Discord-UI-Revert/Discord-UI-Revert.theme.css```
 
 # How to enable Dark OLED mode: ([amoled-cord](https://github.com/LuckFire/amoled-cord))
 1. Edit ```Discord-UI-Revert.theme.css``` file
